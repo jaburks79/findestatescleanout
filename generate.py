@@ -345,19 +345,11 @@ print("Submit page generated")
 
 # ---- SITEMAP ----
 urls = []
-
-# Homepage
 urls.append('https://findestatescleanout.com/')
-
-# City pages
 for city_slug in cities:
     urls.append(f'https://findestatescleanout.com/city/{city_slug}/')
-
-# Listing pages
 for l in listings:
     urls.append(f'https://findestatescleanout.com/listing/{l["slug"]}/')
-
-# Submit page
 urls.append('https://findestatescleanout.com/submit/')
 
 sitemap_urls = ""
@@ -376,4 +368,15 @@ with open('output/sitemap.xml', 'w') as f:
     f.write(sitemap)
 
 print("Sitemap generated")
+
+# ---- ROBOTS.TXT ----
+robots = """User-agent: *
+Allow: /
+
+Sitemap: https://findestatescleanout.com/sitemap.xml"""
+
+with open('output/robots.txt', 'w') as f:
+    f.write(robots)
+
+print("Robots.txt generated")
 print("Site generation complete! Check the output/ folder.")
