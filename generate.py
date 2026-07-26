@@ -342,4 +342,38 @@ with open('output/submit/index.html', 'w') as f:
     f.write(submit_page)
 
 print("Submit page generated")
+
+# ---- SITEMAP ----
+urls = []
+
+# Homepage
+urls.append('https://findestatescleanout.com/')
+
+# City pages
+for city_slug in cities:
+    urls.append(f'https://findestatescleanout.com/city/{city_slug}/')
+
+# Listing pages
+for l in listings:
+    urls.append(f'https://findestatescleanout.com/listing/{l["slug"]}/')
+
+# Submit page
+urls.append('https://findestatescleanout.com/submit/')
+
+sitemap_urls = ""
+for url in urls:
+    sitemap_urls += f"""    <url>
+        <loc>{url}</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>\n"""
+
+sitemap = f"""<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{sitemap_urls}</urlset>"""
+
+with open('output/sitemap.xml', 'w') as f:
+    f.write(sitemap)
+
+print("Sitemap generated")
 print("Site generation complete! Check the output/ folder.")
