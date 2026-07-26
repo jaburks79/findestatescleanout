@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Submit Your Business | FindEstatesCleanout.com</title>
+    <meta name="description" content="List your estate cleanout business for free on FindEstatesCleanout.com and reach families in your area.">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', sans-serif; color: #1a1a1a; background: #f9f9f9; }
+        header { background: #1a3c5e; color: white; padding: 30px 20px; text-align: center; }
+        header h1 { font-size: 1.8em; margin-bottom: 6px; }
+        nav { background: #122b44; padding: 10px 20px; }
+        nav a { color: #e8a020; text-decoration: none; font-size: 0.9em; }
+        .container { max-width: 700px; margin: 0 auto; padding: 40px 20px; }
+        .form-card { background: white; border-radius: 8px; padding: 32px; border: 1px solid #ddd; }
+        .form-card h2 { color: #1a3c5e; margin-bottom: 8px; }
+        .form-card p { color: #555; margin-bottom: 24px; }
+        .form-group { margin-bottom: 20px; }
+        label { display: block; font-weight: 600; margin-bottom: 6px; color: #333; }
+        input, textarea, select { width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 6px; font-size: 1em; font-family: inherit; }
+        textarea { height: 120px; resize: vertical; }
+        .submit-btn { background: #e8a020; color: white; padding: 14px 28px; border: none; border-radius: 6px; font-size: 1em; font-weight: bold; cursor: pointer; width: 100%; }
+        .submit-btn:hover { background: #d4911c; }
+        footer { text-align: center; padding: 30px; color: #888; font-size: 0.9em; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>List Your Business Free</h1>
+        <p>Reach families who need estate cleanout services in your area</p>
+    </header>
+    <nav><a href="/">Back to Home</a></nav>
+    <div class="container">
+        <div class="form-card">
+            <h2>Submit Your Business</h2>
+            <p>Fill out the form below and we'll add your listing within 24 hours. It's completely free.</p>
+            <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+                <div class="form-group">
+                    <label>Business Name *</label>
+                    <input type="text" name="business_name" required>
+                </div>
+                <div class="form-group">
+                    <label>Your Name *</label>
+                    <input type="text" name="contact_name" required>
+                </div>
+                <div class="form-group">
+                    <label>Email Address *</label>
+                    <input type="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label>Phone Number *</label>
+                    <input type="tel" name="phone" required>
+                </div>
+                <div class="form-group">
+                    <label>City *</label>
+                    <input type="text" name="city" required>
+                </div>
+                <div class="form-group">
+                    <label>State *</label>
+                    <input type="text" name="state" required>
+                </div>
+                <div class="form-group">
+                    <label>Website (optional)</label>
+                    <input type="url" name="website">
+                </div>
+                <div class="form-group">
+                    <label>Business Description *</label>
+                    <textarea name="description" required placeholder="Tell families about your services..."></textarea>
+                </div>
+                <button type="submit" class="submit-btn">Submit My Business Free</button>
+            </form>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2026 FindEstatesCleanout.com</p>
+    </footer>
+</body>
+</html>

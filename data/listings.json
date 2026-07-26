@@ -1,0 +1,43 @@
+{
+  "listings": [
+    {
+      "name": "Dallas Estate Cleanout Pros",
+      "slug": "dallas-estate-cleanout-pros",
+      "city": "Dallas",
+      "state": "Texas",
+      "state_slug": "texas",
+      "city_slug": "dallas-tx",
+      "phone": "(214) 555-0101",
+      "website": "",
+      "description": "Professional estate cleanout services in the Dallas Fort Worth area. We help families clear homes quickly and compassionately after a loss or downsizing event.",
+      "category": "Estate Cleanout",
+      "featured": false
+    },
+    {
+      "name": "Houston Home Clearance",
+      "slug": "houston-home-clearance",
+      "city": "Houston",
+      "state": "Texas",
+      "state_slug": "texas",
+      "city_slug": "houston-tx",
+      "phone": "(713) 555-0102",
+      "website": "",
+      "description": "Serving Houston families with full estate cleanout and junk removal services. Fast, respectful, and affordable.",
+      "category": "Estate Cleanout",
+      "featured": false
+    },
+    {
+      "name": "Chicago Estate Solutions",
+      "slug": "chicago-estate-solutions",
+      "city": "Chicago",
+      "state": "Illinois",
+      "state_slug": "illinois",
+      "city_slug": "chicago-il",
+      "phone": "(312) 555-0103",
+      "website": "",
+      "description": "Chicago's trusted estate cleanout company. We handle everything from furniture removal to full property clearances.",
+      "category": "Estate Cleanout",
+      "featured": false
+    }
+  ]
+}
