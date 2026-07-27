@@ -64,6 +64,8 @@ homepage = f"""<!DOCTYPE html>
         .submit-banner p {{ opacity: 0.9; margin-bottom: 20px; }}
         .submit-banner a {{ background: #e8a020; color: white; padding: 14px 28px; border-radius: 6px; text-decoration: none; font-weight: bold; }}
         footer {{ text-align: center; padding: 30px; color: #888; font-size: 0.9em; margin-top: 40px; }}
+        footer a {{ color: #888; text-decoration: none; margin: 0 10px; }}
+        footer a:hover {{ text-decoration: underline; }}
     </style>
 </head>
 <body>
@@ -107,6 +109,7 @@ homepage = f"""<!DOCTYPE html>
     </div>
     <footer>
         <p>&copy; 2026 FindEstatesCleanout.com &mdash; Connecting families with trusted estate cleanout professionals</p>
+        <p style="margin-top: 10px;"><a href="/privacy/">Privacy Policy</a></p>
     </footer>
 </body>
 </html>"""
@@ -124,7 +127,6 @@ for city_slug, city_listings in cities.items():
     listing_cards = ""
     for l in city_listings:
         featured_badge = '<span class="featured-badge">Featured</span>' if l.get('featured') else ''
-        # Show phone if real, otherwise show Claim This Listing
         if l.get('phone') and l.get('claimed'):
             contact_html = f'<span><a href="tel:{l["phone"]}">{l["phone"]}</a></span>'
         else:
@@ -173,6 +175,8 @@ for city_slug, city_listings in cities.items():
         .sidebar-cta p {{ font-size: 0.9em; opacity: 0.9; margin-bottom: 16px; }}
         .sidebar-cta a {{ background: #e8a020; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; }}
         footer {{ text-align: center; padding: 30px; color: #888; font-size: 0.9em; }}
+        footer a {{ color: #888; text-decoration: none; margin: 0 10px; }}
+        footer a:hover {{ text-decoration: underline; }}
     </style>
 </head>
 <body>
@@ -191,6 +195,7 @@ for city_slug, city_listings in cities.items():
     </div>
     <footer>
         <p>&copy; 2026 FindEstatesCleanout.com</p>
+        <p style="margin-top: 10px;"><a href="/privacy/">Privacy Policy</a></p>
     </footer>
 </body>
 </html>"""
@@ -204,7 +209,6 @@ print("City pages generated")
 
 # ---- LISTING PAGES ----
 for l in listings:
-    # Show phone if claimed, otherwise show Claim This Listing
     if l.get('phone') and l.get('claimed'):
         contact_html = f'<p><a href="tel:{l["phone"]}">{l["phone"]}</a></p>'
         cta_html = f'<a href="tel:{l["phone"]}" class="cta-button">Call Now</a>'
@@ -239,6 +243,8 @@ for l in listings:
         .unclaimed-notice {{ background: #fff8e6; border: 1px solid #e8a020; border-radius: 6px; padding: 16px; margin-top: 20px; font-size: 0.95em; color: #7a5c00; }}
         .featured-badge {{ background: #e8a020; color: white; font-size: 0.85em; padding: 4px 12px; border-radius: 4px; display: inline-block; margin-bottom: 16px; }}
         footer {{ text-align: center; padding: 30px; color: #888; font-size: 0.9em; }}
+        footer a {{ color: #888; text-decoration: none; margin: 0 10px; }}
+        footer a:hover {{ text-decoration: underline; }}
     </style>
 </head>
 <body>
@@ -264,6 +270,7 @@ for l in listings:
     </div>
     <footer>
         <p>&copy; 2026 FindEstatesCleanout.com</p>
+        <p style="margin-top: 10px;"><a href="/privacy/">Privacy Policy</a></p>
     </footer>
 </body>
 </html>"""
@@ -301,6 +308,8 @@ submit_page = """<!DOCTYPE html>
         .submit-btn { background: #e8a020; color: white; padding: 14px 28px; border: none; border-radius: 6px; font-size: 1em; font-weight: bold; cursor: pointer; width: 100%; }
         .submit-btn:hover { background: #d4911c; }
         footer { text-align: center; padding: 30px; color: #888; font-size: 0.9em; }
+        footer a { color: #888; text-decoration: none; margin: 0 10px; }
+        footer a:hover { text-decoration: underline; }
     </style>
 </head>
 <body>
@@ -352,6 +361,7 @@ submit_page = """<!DOCTYPE html>
     </div>
     <footer>
         <p>&copy; 2026 FindEstatesCleanout.com</p>
+        <p style="margin-top: 10px;"><a href="/privacy/">Privacy Policy</a></p>
     </footer>
 </body>
 </html>"""
@@ -362,6 +372,108 @@ with open('output/submit/index.html', 'w') as f:
 
 print("Submit page generated")
 
+# ---- PRIVACY POLICY PAGE ----
+privacy_page = """<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy | FindEstatesCleanout.com</title>
+    <meta name="description" content="Privacy Policy for FindEstatesCleanout.com">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: 'Segoe UI', sans-serif; color: #1a1a1a; background: #f9f9f9; }
+        header { background: #1a3c5e; color: white; padding: 30px 20px; text-align: center; }
+        header h1 { font-size: 1.8em; margin-bottom: 6px; }
+        nav { background: #122b44; padding: 10px 20px; }
+        nav a { color: #e8a020; text-decoration: none; font-size: 0.9em; }
+        .container { max-width: 800px; margin: 0 auto; padding: 40px 20px; }
+        .policy-card { background: white; border-radius: 8px; padding: 40px; border: 1px solid #ddd; }
+        h2 { color: #1a3c5e; font-size: 1.4em; margin-top: 30px; margin-bottom: 12px; }
+        h2:first-child { margin-top: 0; }
+        p { color: #555; line-height: 1.8; margin-bottom: 16px; }
+        ul { color: #555; line-height: 1.8; margin-bottom: 16px; padding-left: 24px; }
+        ul li { margin-bottom: 8px; }
+        .last-updated { color: #888; font-size: 0.9em; margin-bottom: 24px; }
+        footer { text-align: center; padding: 30px; color: #888; font-size: 0.9em; }
+        footer a { color: #888; text-decoration: none; margin: 0 10px; }
+        footer a:hover { text-decoration: underline; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Privacy Policy</h1>
+        <p>FindEstatesCleanout.com</p>
+    </header>
+    <nav><a href="/">Back to Home</a></nav>
+    <div class="container">
+        <div class="policy-card">
+            <p class="last-updated">Last updated: July 2026</p>
+
+            <h2>Introduction</h2>
+            <p>FindEstatesCleanout.com ("we", "us", or "our") operates as an online directory connecting families with estate cleanout service providers. This Privacy Policy explains how we collect, use, and protect information when you use our website.</p>
+
+            <h2>Information We Collect</h2>
+            <p>We collect information in the following ways:</p>
+            <ul>
+                <li><strong>Business Listing Submissions:</strong> When a business submits a listing, we collect the business name, contact name, email address, phone number, city, state, website, and business description.</li>
+                <li><strong>Usage Data:</strong> We may collect anonymous data about how visitors use our site, including pages visited and time spent on the site.</li>
+                <li><strong>Cookies:</strong> Our site may use cookies to improve user experience. You can disable cookies in your browser settings at any time.</li>
+            </ul>
+
+            <h2>How We Use Your Information</h2>
+            <p>Information collected through business listing submissions is used to:</p>
+            <ul>
+                <li>Create and maintain your business listing on our directory</li>
+                <li>Contact you regarding your listing</li>
+                <li>Send occasional updates about the directory</li>
+            </ul>
+
+            <h2>We Do Not Sell Your Information</h2>
+            <p>We do not sell, trade, or rent your personal information to third parties. Business listing information that you submit is displayed publicly on our website as part of the directory service.</p>
+
+            <h2>Third Party Services</h2>
+            <p>We use the following third party services to operate our website:</p>
+            <ul>
+                <li><strong>Formspree:</strong> Used to process business listing submission forms. Submissions are subject to Formspree's privacy policy.</li>
+                <li><strong>Cloudflare:</strong> Used to host and deliver our website. Subject to Cloudflare's privacy policy.</li>
+                <li><strong>Google Analytics:</strong> We may use Google Analytics to understand how visitors use our site. Google Analytics collects anonymous usage data.</li>
+            </ul>
+
+            <h2>Data Retention</h2>
+            <p>Business listing information is retained for as long as the listing remains active on our directory. You may request removal of your listing and associated information at any time by contacting us.</p>
+
+            <h2>Your Rights</h2>
+            <p>You have the right to:</p>
+            <ul>
+                <li>Request access to information we hold about your business</li>
+                <li>Request correction of inaccurate information</li>
+                <li>Request removal of your business listing and associated data</li>
+            </ul>
+
+            <h2>Children's Privacy</h2>
+            <p>Our website is not directed at children under the age of 13. We do not knowingly collect personal information from children.</p>
+
+            <h2>Changes to This Policy</h2>
+            <p>We may update this Privacy Policy from time to time. We will post any changes on this page with an updated date.</p>
+
+            <h2>Contact Us</h2>
+            <p>If you have any questions about this Privacy Policy or wish to request removal of your information, please contact us through our <a href="/submit/" style="color: #1a3c5e;">listing submission form</a>.</p>
+        </div>
+    </div>
+    <footer>
+        <p>&copy; 2026 FindEstatesCleanout.com</p>
+        <p style="margin-top: 10px;"><a href="/privacy/">Privacy Policy</a></p>
+    </footer>
+</body>
+</html>"""
+
+os.makedirs('output/privacy')
+with open('output/privacy/index.html', 'w') as f:
+    f.write(privacy_page)
+
+print("Privacy policy generated")
+
 # ---- SITEMAP ----
 urls = []
 urls.append('https://findestatescleanout.com/')
@@ -370,6 +482,7 @@ for city_slug in cities:
 for l in listings:
     urls.append(f'https://findestatescleanout.com/listing/{l["slug"]}/')
 urls.append('https://findestatescleanout.com/submit/')
+urls.append('https://findestatescleanout.com/privacy/')
 
 sitemap_urls = ""
 for url in urls:
