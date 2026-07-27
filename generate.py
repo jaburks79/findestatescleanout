@@ -294,7 +294,7 @@ submit_page = """<!DOCTYPE html>
         <div class="form-card">
             <h2>Submit Your Business</h2>
             <p>Fill out the form below and we'll add your listing within 24 hours. It's completely free.</p>
-            <form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+            <form action="https://formspree.io/f/mbdnqygl" method="POST">
                 <div class="form-group">
                     <label>Business Name *</label>
                     <input type="text" name="business_name" required>
