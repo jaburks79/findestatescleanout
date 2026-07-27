@@ -21,6 +21,8 @@
         .contact-info p { margin-bottom: 8px; }
         .contact-info a { color: #1a3c5e; font-weight: bold; }
         .cta-button { display: inline-block; background: #e8a020; color: white; padding: 14px 28px; border-radius: 6px; text-decoration: none; font-weight: bold; margin-top: 20px; }
+        .claim-cta { background: #1a3c5e; }
+        .unclaimed-notice { background: #fff8e6; border: 1px solid #e8a020; border-radius: 6px; padding: 16px; margin-top: 20px; font-size: 0.95em; color: #7a5c00; }
         .featured-badge { background: #e8a020; color: white; font-size: 0.85em; padding: 4px 12px; border-radius: 4px; display: inline-block; margin-bottom: 16px; }
         footer { text-align: center; padding: 30px; color: #888; font-size: 0.9em; }
     </style>
@@ -39,10 +41,11 @@
             <div class="contact-info">
                 <h3>Contact Information</h3>
                 <p>Charlotte, North Carolina</p>
-                <p><a href="tel:(704) 334-7723">(704) 334-7723</a></p>
+                
                 
             </div>
-            <a href="tel:(704) 334-7723" class="cta-button">Call Now</a>
+            <div class="unclaimed-notice">This listing has not yet been claimed by the business owner. If this is your business, click below to claim it and add your contact information for free.</div>
+            <a href="/submit/" class="cta-button claim-cta">Claim This Listing</a>
         </div>
     </div>
     <footer>

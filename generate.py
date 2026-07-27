@@ -124,6 +124,12 @@ for city_slug, city_listings in cities.items():
     listing_cards = ""
     for l in city_listings:
         featured_badge = '<span class="featured-badge">Featured</span>' if l.get('featured') else ''
+        # Show phone if real, otherwise show Claim This Listing
+        if l.get('phone') and l.get('claimed'):
+            contact_html = f'<span><a href="tel:{l["phone"]}">{l["phone"]}</a></span>'
+        else:
+            contact_html = '<span><a href="/submit/" class="claim-link">Claim This Listing</a></span>'
+
         listing_cards += f"""
         <div class="listing-card {'featured' if l.get('featured') else ''}">
             {featured_badge}
@@ -131,7 +137,7 @@ for city_slug, city_listings in cities.items():
             <p class="listing-desc">{l['description']}</p>
             <div class="listing-meta">
                 <span>{l['city']}, {l['state']}</span>
-                <span><a href="tel:{l['phone']}">{l['phone']}</a></span>
+                {contact_html}
             </div>
         </div>"""
 
@@ -160,6 +166,8 @@ for city_slug, city_listings in cities.items():
         .listing-desc {{ color: #555; margin-bottom: 12px; line-height: 1.6; }}
         .listing-meta {{ display: flex; gap: 20px; font-size: 0.9em; color: #444; }}
         .listing-meta a {{ color: #1a3c5e; }}
+        .claim-link {{ background: #f0f4f8; border: 1px solid #1a3c5e; color: #1a3c5e; padding: 4px 12px; border-radius: 4px; text-decoration: none; font-weight: 600; font-size: 0.85em; }}
+        .claim-link:hover {{ background: #1a3c5e; color: white; }}
         .sidebar-cta {{ background: #1a3c5e; color: white; border-radius: 8px; padding: 24px; margin-top: 30px; text-align: center; }}
         .sidebar-cta h3 {{ margin-bottom: 10px; }}
         .sidebar-cta p {{ font-size: 0.9em; opacity: 0.9; margin-bottom: 16px; }}
@@ -196,6 +204,14 @@ print("City pages generated")
 
 # ---- LISTING PAGES ----
 for l in listings:
+    # Show phone if claimed, otherwise show Claim This Listing
+    if l.get('phone') and l.get('claimed'):
+        contact_html = f'<p><a href="tel:{l["phone"]}">{l["phone"]}</a></p>'
+        cta_html = f'<a href="tel:{l["phone"]}" class="cta-button">Call Now</a>'
+    else:
+        contact_html = ''
+        cta_html = '<a href="/submit/" class="cta-button claim-cta">Claim This Listing</a>'
+
     listing_page = f"""<!DOCTYPE html>
 <html lang="en">
 <head>
@@ -219,6 +235,8 @@ for l in listings:
         .contact-info p {{ margin-bottom: 8px; }}
         .contact-info a {{ color: #1a3c5e; font-weight: bold; }}
         .cta-button {{ display: inline-block; background: #e8a020; color: white; padding: 14px 28px; border-radius: 6px; text-decoration: none; font-weight: bold; margin-top: 20px; }}
+        .claim-cta {{ background: #1a3c5e; }}
+        .unclaimed-notice {{ background: #fff8e6; border: 1px solid #e8a020; border-radius: 6px; padding: 16px; margin-top: 20px; font-size: 0.95em; color: #7a5c00; }}
         .featured-badge {{ background: #e8a020; color: white; font-size: 0.85em; padding: 4px 12px; border-radius: 4px; display: inline-block; margin-bottom: 16px; }}
         footer {{ text-align: center; padding: 30px; color: #888; font-size: 0.9em; }}
     </style>
@@ -237,10 +255,11 @@ for l in listings:
             <div class="contact-info">
                 <h3>Contact Information</h3>
                 <p>{l['city']}, {l['state']}</p>
-                <p><a href="tel:{l['phone']}">{l['phone']}</a></p>
+                {contact_html}
                 {f'<p><a href="{l["website"]}" target="_blank">{l["website"]}</a></p>' if l.get('website') else ''}
             </div>
-            <a href="tel:{l['phone']}" class="cta-button">Call Now</a>
+            {'' if l.get('claimed') else '<div class="unclaimed-notice">This listing has not yet been claimed by the business owner. If this is your business, click below to claim it and add your contact information for free.</div>'}
+            {cta_html}
         </div>
     </div>
     <footer>
