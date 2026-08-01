@@ -124,6 +124,9 @@ for city_slug, city_listings in cities.items():
     city_name = city_listings[0]['city']
     state_name = city_listings[0]['state']
 
+    city_blurb = city_listings[0].get('city_blurb', '')
+    city_blurb_html = f'<div class="city-blurb"><p>{city_blurb}</p></div>' if city_blurb else ''
+
     listing_cards = ""
     for l in city_listings:
         featured_badge = '<span class="featured-badge">Featured</span>' if l.get('featured') else ''
@@ -174,6 +177,8 @@ for city_slug, city_listings in cities.items():
         .sidebar-cta h3 {{ margin-bottom: 10px; }}
         .sidebar-cta p {{ font-size: 0.9em; opacity: 0.9; margin-bottom: 16px; }}
         .sidebar-cta a {{ background: #e8a020; color: white; padding: 12px 24px; border-radius: 6px; text-decoration: none; font-weight: bold; }}
+        .city-blurb {{ background: white; border-radius: 8px; padding: 24px; margin-bottom: 24px; border-left: 4px solid #e8a020; }}
+        .city-blurb p {{ color: #555; line-height: 1.7; }}
         footer {{ text-align: center; padding: 30px; color: #888; font-size: 0.9em; }}
         footer a {{ color: #888; text-decoration: none; margin: 0 10px; }}
         footer a:hover {{ text-decoration: underline; }}
@@ -186,6 +191,7 @@ for city_slug, city_listings in cities.items():
     </header>
     <nav><a href="/">Back to All Cities</a></nav>
     <div class="container">
+        {city_blurb_html}
         {listing_cards}
         <div class="sidebar-cta">
             <h3>Own an Estate Cleanout Business in {city_name}?</h3>

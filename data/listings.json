@@ -10,6 +10,7 @@
       "phone": "",
       "website": "",
       "description": "Professional estate cleanout services in the Dallas Fort Worth area. We help families clear homes quickly and compassionately after a loss or downsizing event, handling everything from furniture removal to full property clearances.",
+      "city_blurb": "Dallas is the third-largest city in Texas and home to millions of families across Dallas County and the greater DFW metroplex. With one of the fastest-growing senior populations in the South, demand for estate cleanout services in Dallas has never been higher. Whether you're clearing a home in Oak Cliff, Lake Highlands, or the Park Cities, local estate cleanout professionals are ready to help.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -24,6 +25,7 @@
       "phone": "",
       "website": "",
       "description": "Dallas-based estate cleanout specialists helping families navigate the emotional process of clearing a loved one's home. Full property cleanouts, donation coordination, and junk removal all in one call.",
+      "city_blurb": "Dallas is the third-largest city in Texas and home to millions of families across Dallas County and the greater DFW metroplex. With one of the fastest-growing senior populations in the South, demand for estate cleanout services in Dallas has never been higher. Whether you're clearing a home in Oak Cliff, Lake Highlands, or the Park Cities, local estate cleanout professionals are ready to help.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -38,6 +40,7 @@
       "phone": "",
       "website": "",
       "description": "Serving Houston families with full estate cleanout and junk removal services. Fast, respectful, and affordable. We work around your schedule and handle all donations and disposal.",
+      "city_blurb": "Houston is the largest city in Texas and fourth-largest in the United States, spanning Harris County and surrounding areas. With a massive and diverse population, Houston families frequently need estate cleanout help after a loved one passes or downsizes. From the Heights to Sugar Land and Katy, local cleanout professionals serve every corner of the Houston metro.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -52,6 +55,7 @@
       "phone": "",
       "website": "",
       "description": "Houston's trusted partner for estate cleanouts. We treat every home with the respect and care it deserves, helping families clear properties quickly so they can focus on what matters most.",
+      "city_blurb": "Houston is the largest city in Texas and fourth-largest in the United States, spanning Harris County and surrounding areas. With a massive and diverse population, Houston families frequently need estate cleanout help after a loved one passes or downsizes. From the Heights to Sugar Land and Katy, local cleanout professionals serve every corner of the Houston metro.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -66,6 +70,7 @@
       "phone": "",
       "website": "",
       "description": "Chicago estate cleanout professionals handling everything from furniture removal to full property clearances, serving Cook County and surrounding areas with care and professionalism.",
+      "city_blurb": "Chicago is Illinois's largest city and a major hub for estate services across Cook County and the broader Chicagoland area. Chicago's large population of long-time homeowners means estate cleanouts are a constant need, particularly in neighborhoods like Bridgeport, Beverly, and the North Shore suburbs. Local estate cleanout companies understand the unique housing stock and logistical challenges of Chicago properties.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -80,6 +85,7 @@
       "phone": "",
       "website": "",
       "description": "Full-service estate cleanout serving the greater Chicago metro area. We sort, donate, haul, and clean so families can focus on healing rather than logistics after losing a loved one.",
+      "city_blurb": "Chicago is Illinois's largest city and a major hub for estate services across Cook County and the broader Chicagoland area. Chicago's large population of long-time homeowners means estate cleanouts are a constant need, particularly in neighborhoods like Bridgeport, Beverly, and the North Shore suburbs. Local estate cleanout companies understand the unique housing stock and logistical challenges of Chicago properties.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -94,6 +100,7 @@
       "phone": "",
       "website": "",
       "description": "Helping Phoenix families clear homes with efficiency and compassion. We offer full estate cleanouts, furniture removal, and donation drop-off services throughout the Valley of the Sun.",
+      "city_blurb": "Phoenix is the capital of Arizona and one of the fastest-growing cities in the nation, home to a large and rapidly aging retirement community across Maricopa County. The Valley of the Sun attracts retirees from across the country, making estate cleanout services in Phoenix particularly high in demand. Professionals serve communities from Scottsdale and Tempe to Mesa and Chandler.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -108,6 +115,7 @@
       "phone": "",
       "website": "",
       "description": "Phoenix-area estate cleanout specialists with years of experience helping families navigate property clearances after a loss or major life transition. Serving Phoenix, Scottsdale, Tempe, and Mesa.",
+      "city_blurb": "Phoenix is the capital of Arizona and one of the fastest-growing cities in the nation, home to a large and rapidly aging retirement community across Maricopa County. The Valley of the Sun attracts retirees from across the country, making estate cleanout services in Phoenix particularly high in demand. Professionals serve communities from Scottsdale and Tempe to Mesa and Chandler.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -122,6 +130,7 @@
       "phone": "",
       "website": "",
       "description": "Serving Philadelphia and surrounding counties with professional estate cleanout services. We help families clear homes quickly and respectfully, handling all items from antiques to everyday household goods.",
+      "city_blurb": "Philadelphia is Pennsylvania's largest city and one of the oldest in the nation, with a rich history of multi-generational homeownership across Philadelphia County. Many Philadelphia homes contain decades of accumulated belongings, making professional estate cleanout services essential for families preparing properties for sale or transfer. Professionals serve neighborhoods from South Philly and Fishtown to the Main Line suburbs.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -136,6 +145,7 @@
       "phone": "",
       "website": "",
       "description": "Philadelphia estate cleanout team treating every item with care and every family with respect during the difficult process of clearing a loved one's home.",
+      "city_blurb": "Philadelphia is Pennsylvania's largest city and one of the oldest in the nation, with a rich history of multi-generational homeownership across Philadelphia County. Many Philadelphia homes contain decades of accumulated belongings, making professional estate cleanout services essential for families preparing properties for sale or transfer. Professionals serve neighborhoods from South Philly and Fishtown to the Main Line suburbs.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -150,6 +160,7 @@
       "phone": "",
       "website": "",
       "description": "San Antonio families trust us to handle estate cleanouts with care and efficiency. From single rooms to entire properties, we manage everything including donations, hauling, and final cleanup.",
+      "city_blurb": "San Antonio is the second-largest city in Texas and home to a proud multi-generational community across Bexar County. With a large military retiree population and growing senior community, San Antonio sees consistent demand for estate cleanout services. Professionals serve areas from Alamo Heights and Helotes to Stone Oak and the South Side.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -164,6 +175,7 @@
       "phone": "",
       "website": "",
       "description": "Compassionate estate cleanout services serving the greater San Antonio area. We work with families, estate attorneys, and real estate agents to prepare properties for sale after a loved one's passing.",
+      "city_blurb": "San Antonio is the second-largest city in Texas and home to a proud multi-generational community across Bexar County. With a large military retiree population and growing senior community, San Antonio sees consistent demand for estate cleanout services. Professionals serve areas from Alamo Heights and Helotes to Stone Oak and the South Side.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -178,6 +190,7 @@
       "phone": "",
       "website": "",
       "description": "San Diego's trusted estate cleanout service helping families clear homes after a loss or downsizing event, providing full property cleanouts, donation coordination, and respectful handling of all belongings.",
+      "city_blurb": "San Diego is California's second-largest city, spanning San Diego County along the Pacific coast. With a large military and retiree population, San Diego families frequently need estate cleanout help after a loved one passes or relocates. Professionals serve communities from La Jolla and Mission Hills to Chula Vista and El Cajon.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -192,6 +205,7 @@
       "phone": "",
       "website": "",
       "description": "Serving San Diego County with professional and compassionate estate cleanout services. We handle all types of properties from small condos to large family homes, with full donation and disposal coordination.",
+      "city_blurb": "San Diego is California's second-largest city, spanning San Diego County along the Pacific coast. With a large military and retiree population, San Diego families frequently need estate cleanout help after a loved one passes or relocates. Professionals serve communities from La Jolla and Mission Hills to Chula Vista and El Cajon.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -206,6 +220,7 @@
       "phone": "",
       "website": "",
       "description": "Fort Worth estate cleanout specialists serving Tarrant County and surrounding areas. We help families clear homes quickly and affordably, with same-week service available for urgent situations.",
+      "city_blurb": "Fort Worth is the fifth-largest city in Texas and the cultural heart of Tarrant County in the DFW metroplex. Known for its Western heritage and tight-knit neighborhoods, Fort Worth has a large population of long-time homeowners whose families often need estate cleanout help. Professionals serve areas from the Stockyards and Southside to Arlington and Mansfield.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -220,6 +235,7 @@
       "phone": "",
       "website": "",
       "description": "Fort Worth estate cleanout professionals handling everything with efficiency and respect for your family's belongings, whether you need one room cleared or an entire estate emptied.",
+      "city_blurb": "Fort Worth is the fifth-largest city in Texas and the cultural heart of Tarrant County in the DFW metroplex. Known for its Western heritage and tight-knit neighborhoods, Fort Worth has a large population of long-time homeowners whose families often need estate cleanout help. Professionals serve areas from the Stockyards and Southside to Arlington and Mansfield.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -234,6 +250,7 @@
       "phone": "",
       "website": "",
       "description": "Serving Austin and surrounding Travis County with full estate cleanout services. We help families, executors, and real estate agents prepare properties quickly and compassionately.",
+      "city_blurb": "Austin is the capital of Texas and one of the fastest-growing cities in the United States, spanning Travis County and surrounding areas. As Austin's population ages and long-time residents pass on their homes to the next generation, estate cleanout services are increasingly in demand. Professionals serve neighborhoods from Hyde Park and Tarrytown to Round Rock and Cedar Park.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -248,6 +265,7 @@
       "phone": "",
       "website": "",
       "description": "Austin estate cleanout team treating every home clearing with the sensitivity and professionalism it deserves during what can be a very difficult time for families.",
+      "city_blurb": "Austin is the capital of Texas and one of the fastest-growing cities in the United States, spanning Travis County and surrounding areas. As Austin's population ages and long-time residents pass on their homes to the next generation, estate cleanout services are increasingly in demand. Professionals serve neighborhoods from Hyde Park and Tarrytown to Round Rock and Cedar Park.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -262,6 +280,7 @@
       "phone": "",
       "website": "",
       "description": "Jacksonville's trusted estate cleanout professionals serving Duval County and surrounding areas with full property cleanouts, furniture removal, and donation coordination for families in transition.",
+      "city_blurb": "Jacksonville is the largest city by area in the contiguous United States and the most populous city in Florida, covering all of Duval County. With a large retiree population and significant military presence, Jacksonville sees high demand for estate cleanout services year-round. Professionals serve communities from Riverside and San Marco to Fleming Island and Ponte Vedra Beach.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -276,6 +295,7 @@
       "phone": "",
       "website": "",
       "description": "Helping Jacksonville families navigate estate cleanouts with care and efficiency, handling all aspects of property clearing including sorting, donation, hauling, and final cleanup.",
+      "city_blurb": "Jacksonville is the largest city by area in the contiguous United States and the most populous city in Florida, covering all of Duval County. With a large retiree population and significant military presence, Jacksonville sees high demand for estate cleanout services year-round. Professionals serve communities from Riverside and San Marco to Fleming Island and Ponte Vedra Beach.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -290,6 +310,7 @@
       "phone": "",
       "website": "",
       "description": "Columbus Ohio estate cleanout professionals working with families, probate attorneys, and real estate agents to clear properties efficiently and respectfully throughout central Ohio.",
+      "city_blurb": "Columbus is the capital and largest city of Ohio, home to a diverse population across Franklin County and surrounding central Ohio communities. Columbus has a strong tradition of homeownership in neighborhoods like German Village, Clintonville, and Bexley, and families regularly need estate cleanout help when clearing long-held family homes.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -304,6 +325,7 @@
       "phone": "",
       "website": "",
       "description": "Serving the Columbus metro area with professional estate cleanout services, handling everything from antique furniture to everyday items and ensuring nothing of value is overlooked.",
+      "city_blurb": "Columbus is the capital and largest city of Ohio, home to a diverse population across Franklin County and surrounding central Ohio communities. Columbus has a strong tradition of homeownership in neighborhoods like German Village, Clintonville, and Bexley, and families regularly need estate cleanout help when clearing long-held family homes.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -318,6 +340,7 @@
       "phone": "",
       "website": "",
       "description": "Charlotte North Carolina estate cleanout specialists helping families clear homes after a loss or downsizing, serving Mecklenburg County and surrounding areas with care and professionalism.",
+      "city_blurb": "Charlotte is the largest city in North Carolina and a major financial hub spanning Mecklenburg County. As one of the fastest-growing cities in the Southeast, Charlotte has seen rapid growth in its senior population and demand for estate cleanout services. Professionals serve neighborhoods from Myers Park and Dilworth to Ballantyne and Huntersville.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -332,6 +355,7 @@
       "phone": "",
       "website": "",
       "description": "Charlotte estate cleanout team making the process of clearing a loved one's home as smooth and stress-free as possible for families during a difficult time.",
+      "city_blurb": "Charlotte is the largest city in North Carolina and a major financial hub spanning Mecklenburg County. As one of the fastest-growing cities in the Southeast, Charlotte has seen rapid growth in its senior population and demand for estate cleanout services. Professionals serve neighborhoods from Myers Park and Dilworth to Ballantyne and Huntersville.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -346,6 +370,7 @@
       "phone": "",
       "website": "",
       "description": "Indianapolis estate cleanout professionals serving Marion County and surrounding areas with full property cleanouts, furniture removal, and donation coordination for families in need.",
+      "city_blurb": "Indianapolis is the capital and largest city of Indiana, covering Marion County in the heart of the Midwest. Indy has a large population of long-time homeowners with deep roots in neighborhoods like Broad Ripple, Irvington, and Meridian-Kessler, and families frequently need estate cleanout help when settling a loved one's affairs.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -360,6 +385,7 @@
       "phone": "",
       "website": "",
       "description": "Serving Indianapolis families with respectful and efficient estate cleanout services, handling every job from small apartments to large family homes with the same level of care.",
+      "city_blurb": "Indianapolis is the capital and largest city of Indiana, covering Marion County in the heart of the Midwest. Indy has a large population of long-time homeowners with deep roots in neighborhoods like Broad Ripple, Irvington, and Meridian-Kessler, and families frequently need estate cleanout help when settling a loved one's affairs.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -374,6 +400,7 @@
       "phone": "",
       "website": "",
       "description": "San Francisco estate cleanout specialists serving the Bay Area, helping families clear homes in all types of properties from Victorian flats to modern condos with full donation and disposal coordination.",
+      "city_blurb": "San Francisco is one of California's most iconic cities, known for its Victorian homes, hills, and diverse neighborhoods across San Francisco County. Estate cleanouts in San Francisco often involve unique challenges including multi-unit buildings, narrow access, and high-value antiques and collectibles. Professionals serve neighborhoods from the Mission and Castro to the Richmond and Sunset Districts.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -388,6 +415,7 @@
       "phone": "",
       "website": "",
       "description": "Trusted estate cleanout services throughout the San Francisco Bay Area working with families, executors, and real estate professionals to prepare properties for sale or transfer.",
+      "city_blurb": "San Francisco is one of California's most iconic cities, known for its Victorian homes, hills, and diverse neighborhoods across San Francisco County. Estate cleanouts in San Francisco often involve unique challenges including multi-unit buildings, narrow access, and high-value antiques and collectibles. Professionals serve neighborhoods from the Mission and Castro to the Richmond and Sunset Districts.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -402,6 +430,7 @@
       "phone": "",
       "website": "",
       "description": "Seattle estate cleanout professionals serving King County and surrounding areas, helping families clear homes with efficiency and compassion while handling donations, hauling, and final cleanup.",
+      "city_blurb": "Seattle is the largest city in Washington State and the Pacific Northwest, home to a growing population across King County. Seattle's older established neighborhoods like Ballard, Capitol Hill, and Beacon Hill have many long-time homeowners whose families need estate cleanout help. Professionals also serve Bellevue, Redmond, and the Eastside communities.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -416,6 +445,7 @@
       "phone": "",
       "website": "",
       "description": "Serving Seattle and the greater Puget Sound area with professional estate cleanout services, handling all aspects of property clearing with the care and respect your family deserves.",
+      "city_blurb": "Seattle is the largest city in Washington State and the Pacific Northwest, home to a growing population across King County. Seattle's older established neighborhoods like Ballard, Capitol Hill, and Beacon Hill have many long-time homeowners whose families need estate cleanout help. Professionals also serve Bellevue, Redmond, and the Eastside communities.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -430,6 +460,7 @@
       "phone": "",
       "website": "",
       "description": "Denver Colorado estate cleanout specialists serving the Front Range, helping families navigate the difficult process of clearing a loved one's home with full property cleanouts and donation coordination.",
+      "city_blurb": "Denver is the capital of Colorado and the largest city along the Front Range, spanning Denver County at the foot of the Rocky Mountains. With a rapidly growing population and large number of long-term residents, Denver families regularly need estate cleanout services. Professionals serve neighborhoods from Capitol Hill and Washington Park to Lakewood and Aurora.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -444,6 +475,7 @@
       "phone": "",
       "website": "",
       "description": "Serving Denver and surrounding metro areas with compassionate estate cleanout services, working around your schedule and handling all the heavy lifting so you can focus on your family.",
+      "city_blurb": "Denver is the capital of Colorado and the largest city along the Front Range, spanning Denver County at the foot of the Rocky Mountains. With a rapidly growing population and large number of long-term residents, Denver families regularly need estate cleanout services. Professionals serve neighborhoods from Capitol Hill and Washington Park to Lakewood and Aurora.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -458,6 +490,7 @@
       "phone": "",
       "website": "",
       "description": "Nashville Tennessee estate cleanout professionals serving Davidson County and surrounding areas, helping families clear homes after a loss or downsizing with efficiency and respect.",
+      "city_blurb": "Nashville is the capital of Tennessee and one of the fastest-growing cities in the Southeast, spanning Davidson County and surrounding communities. As Nashville's population booms and its older neighborhoods change hands, estate cleanout services are in high demand. Professionals serve areas from East Nashville and Green Hills to Franklin and Brentwood.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -472,6 +505,7 @@
       "phone": "",
       "website": "",
       "description": "Trusted estate cleanout services throughout the Nashville metro area treating every home and every family with the care and respect they deserve during a difficult time of transition.",
+      "city_blurb": "Nashville is the capital of Tennessee and one of the fastest-growing cities in the Southeast, spanning Davidson County and surrounding communities. As Nashville's population booms and its older neighborhoods change hands, estate cleanout services are in high demand. Professionals serve areas from East Nashville and Green Hills to Franklin and Brentwood.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -486,6 +520,7 @@
       "phone": "",
       "website": "",
       "description": "Oklahoma City estate cleanout specialists serving OKC and surrounding communities with full property cleanouts, furniture removal, and donation coordination for families in transition.",
+      "city_blurb": "Oklahoma City is the capital and largest city of Oklahoma, covering Oklahoma County in the heart of the Great Plains. OKC has a strong culture of homeownership and multi-generational families, making estate cleanout services a common need. Professionals serve neighborhoods from Edmond and Yukon to Moore and Midwest City.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -500,6 +535,7 @@
       "phone": "",
       "website": "",
       "description": "Serving Oklahoma City families with compassionate and professional estate cleanout services, handling everything from small personal items to large furniture and appliances.",
+      "city_blurb": "Oklahoma City is the capital and largest city of Oklahoma, covering Oklahoma County in the heart of the Great Plains. OKC has a strong culture of homeownership and multi-generational families, making estate cleanout services a common need. Professionals serve neighborhoods from Edmond and Yukon to Moore and Midwest City.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -514,6 +550,7 @@
       "phone": "",
       "website": "",
       "description": "El Paso estate cleanout professionals helping families clear homes with care and efficiency, serving El Paso County and surrounding areas with full property cleanouts and donation coordination.",
+      "city_blurb": "El Paso is the westernmost major city in Texas, situated in El Paso County along the Rio Grande bordering New Mexico and Mexico. With a large military community at Fort Bliss and deep multi-generational Hispanic families, El Paso sees consistent demand for estate cleanout services. Professionals serve communities from Northeast El Paso and the Upper Valley to Socorro and Anthony.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -528,6 +565,7 @@
       "phone": "",
       "website": "",
       "description": "Trusted estate cleanout services in El Paso Texas handling all aspects of property clearing including sorting, donations, hauling, and final cleanup for families navigating a difficult transition.",
+      "city_blurb": "El Paso is the westernmost major city in Texas, situated in El Paso County along the Rio Grande bordering New Mexico and Mexico. With a large military community at Fort Bliss and deep multi-generational Hispanic families, El Paso sees consistent demand for estate cleanout services. Professionals serve communities from Northeast El Paso and the Upper Valley to Socorro and Anthony.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -542,6 +580,7 @@
       "phone": "",
       "website": "",
       "description": "Las Vegas estate cleanout specialists serving Clark County and surrounding areas, helping families clear homes quickly and respectfully while handling all donations, hauling, and disposal.",
+      "city_blurb": "Las Vegas is the largest city in Nevada and one of the fastest-growing in the nation, spanning Clark County in the Mojave Desert. Las Vegas has a large retiree population drawn by the warm climate and low taxes, making estate cleanout services consistently in demand. Professionals serve communities from Henderson and Summerlin to North Las Vegas and Boulder City.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -556,6 +595,7 @@
       "phone": "",
       "website": "",
       "description": "Serving Las Vegas families with professional estate cleanout services, working with families, probate attorneys, and real estate agents to prepare properties for sale or transfer.",
+      "city_blurb": "Las Vegas is the largest city in Nevada and one of the fastest-growing in the nation, spanning Clark County in the Mojave Desert. Las Vegas has a large retiree population drawn by the warm climate and low taxes, making estate cleanout services consistently in demand. Professionals serve communities from Henderson and Summerlin to North Las Vegas and Boulder City.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -570,6 +610,7 @@
       "phone": "",
       "website": "",
       "description": "Louisville Kentucky estate cleanout professionals serving Jefferson County and surrounding areas, helping families navigate the difficult process of clearing a loved one's home with care.",
+      "city_blurb": "Louisville is the largest city in Kentucky and a major Ohio River city spanning Jefferson County. Louisville has deep roots in Southern hospitality and multi-generational homeownership, with estate cleanout services in high demand across neighborhoods like the Highlands, Cherokee Triangle, and St. Matthews, as well as surrounding communities like Jeffersonville and New Albany.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -584,6 +625,7 @@
       "phone": "",
       "website": "",
       "description": "Trusted estate cleanout services throughout the Louisville metro area with a compassionate team handling all aspects of property clearing so families can focus on healing and moving forward.",
+      "city_blurb": "Louisville is the largest city in Kentucky and a major Ohio River city spanning Jefferson County. Louisville has deep roots in Southern hospitality and multi-generational homeownership, with estate cleanout services in high demand across neighborhoods like the Highlands, Cherokee Triangle, and St. Matthews, as well as surrounding communities like Jeffersonville and New Albany.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -598,6 +640,7 @@
       "phone": "",
       "website": "",
       "description": "Baltimore Maryland estate cleanout specialists serving the greater Baltimore metro area, helping families clear homes after a loss or downsizing with efficiency and respect for all belongings.",
+      "city_blurb": "Baltimore is Maryland's largest city and a historic port city spanning Baltimore City and Baltimore County. With a rich history of rowhouse neighborhoods and long-established communities like Hampden, Roland Park, and Fell's Point, Baltimore families frequently need estate cleanout help. Professionals serve the city and surrounding counties including Howard and Anne Arundel.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -612,6 +655,7 @@
       "phone": "",
       "website": "",
       "description": "Serving Baltimore families with compassionate and professional estate cleanout services, handling all types of properties and coordinating donations to local charities whenever possible.",
+      "city_blurb": "Baltimore is Maryland's largest city and a historic port city spanning Baltimore City and Baltimore County. With a rich history of rowhouse neighborhoods and long-established communities like Hampden, Roland Park, and Fell's Point, Baltimore families frequently need estate cleanout help. Professionals serve the city and surrounding counties including Howard and Anne Arundel.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -626,6 +670,7 @@
       "phone": "",
       "website": "",
       "description": "Milwaukee Wisconsin estate cleanout professionals serving Milwaukee County and surrounding areas, providing full property cleanouts and helping families navigate the process of clearing a loved one's home.",
+      "city_blurb": "Milwaukee is Wisconsin's largest city and a historic Great Lakes port spanning Milwaukee County. With strong ethnic neighborhoods and deep homeownership traditions in areas like Bay View, Riverwest, and the East Side, Milwaukee families regularly need estate cleanout services. Professionals also serve Waukesha, Wauwatosa, and surrounding suburban communities.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -640,6 +685,7 @@
       "phone": "",
       "website": "",
       "description": "Trusted estate cleanout services in Milwaukee and surrounding communities handling everything from furniture removal to final cleanup, always treating families and their belongings with respect.",
+      "city_blurb": "Milwaukee is Wisconsin's largest city and a historic Great Lakes port spanning Milwaukee County. With strong ethnic neighborhoods and deep homeownership traditions in areas like Bay View, Riverwest, and the East Side, Milwaukee families regularly need estate cleanout services. Professionals also serve Waukesha, Wauwatosa, and surrounding suburban communities.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -654,6 +700,7 @@
       "phone": "",
       "website": "",
       "description": "Albuquerque New Mexico estate cleanout specialists serving Bernalillo County and surrounding areas, helping families clear homes with efficiency and compassion after a loss or downsizing event.",
+      "city_blurb": "Albuquerque is the largest city in New Mexico, spanning Bernalillo County along the Rio Grande in the high desert. With a large Hispanic population and strong multi-generational family traditions, Albuquerque sees consistent demand for estate cleanout services. Professionals serve neighborhoods from the North Valley and Old Town to Rio Rancho and the East Mountains.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -668,6 +715,7 @@
       "phone": "",
       "website": "",
       "description": "Serving Albuquerque families with professional and respectful estate cleanout services, handling full property cleanouts, donations, and hauling so families can focus on what matters most.",
+      "city_blurb": "Albuquerque is the largest city in New Mexico, spanning Bernalillo County along the Rio Grande in the high desert. With a large Hispanic population and strong multi-generational family traditions, Albuquerque sees consistent demand for estate cleanout services. Professionals serve neighborhoods from the North Valley and Old Town to Rio Rancho and the East Mountains.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -682,6 +730,7 @@
       "phone": "",
       "website": "",
       "description": "Tucson Arizona estate cleanout professionals helping families clear homes after a loss or downsizing, serving Pima County with full property cleanouts, furniture removal, and donation coordination.",
+      "city_blurb": "Tucson is Arizona's second-largest city, spanning Pima County in the Sonoran Desert near the Mexican border. Tucson has a large retiree and snowbird population drawn by the warm climate and University of Arizona presence, making estate cleanout services consistently in demand. Professionals serve communities from Marana and Oro Valley to Sahuarita and Green Valley.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -696,6 +745,7 @@
       "phone": "",
       "website": "",
       "description": "Trusted estate cleanout services throughout Tucson and southern Arizona with a compassionate team handling all aspects of property clearing with care and respect for your family and their belongings.",
+      "city_blurb": "Tucson is Arizona's second-largest city, spanning Pima County in the Sonoran Desert near the Mexican border. Tucson has a large retiree and snowbird population drawn by the warm climate and University of Arizona presence, making estate cleanout services consistently in demand. Professionals serve communities from Marana and Oro Valley to Sahuarita and Green Valley.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -710,6 +760,7 @@
       "phone": "",
       "website": "",
       "description": "Fresno California estate cleanout specialists serving the Central Valley, helping families clear homes quickly and respectfully while coordinating donations and handling all hauling and disposal.",
+      "city_blurb": "Fresno is the largest city in California's Central Valley, spanning Fresno County between the Sierra Nevada and the Coast Ranges. With a diverse agricultural community and large multi-generational families, Fresno sees steady demand for estate cleanout services. Professionals serve communities from Clovis and Madera to Tulare and Kings Counties.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -724,6 +775,7 @@
       "phone": "",
       "website": "",
       "description": "Serving Fresno and the greater Central Valley with professional estate cleanout services, handling everything from antique furniture to everyday household items with care and efficiency.",
+      "city_blurb": "Fresno is the largest city in California's Central Valley, spanning Fresno County between the Sierra Nevada and the Coast Ranges. With a diverse agricultural community and large multi-generational families, Fresno sees steady demand for estate cleanout services. Professionals serve communities from Clovis and Madera to Tulare and Kings Counties.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -738,6 +790,7 @@
       "phone": "",
       "website": "",
       "description": "Sacramento estate cleanout professionals serving the greater Sacramento area, helping families and estate executors clear properties quickly and affordably with full donation and disposal coordination.",
+      "city_blurb": "Sacramento is the capital of California and a major city in the Central Valley spanning Sacramento County. With a large government workforce and established neighborhoods like Land Park, Curtis Park, and East Sacramento, many families need estate cleanout help when clearing long-held family homes. Professionals serve the greater Sacramento region including Elk Grove, Roseville, and Folsom.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -752,6 +805,7 @@
       "phone": "",
       "website": "",
       "description": "Trusted estate cleanout services in Sacramento and surrounding communities treating every home and family with compassion and professionalism during what can be a very difficult time.",
+      "city_blurb": "Sacramento is the capital of California and a major city in the Central Valley spanning Sacramento County. With a large government workforce and established neighborhoods like Land Park, Curtis Park, and East Sacramento, many families need estate cleanout help when clearing long-held family homes. Professionals serve the greater Sacramento region including Elk Grove, Roseville, and Folsom.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -766,6 +820,7 @@
       "phone": "",
       "website": "",
       "description": "Kansas City Missouri estate cleanout specialists serving the greater KC metro area, helping families clear homes after a loss or downsizing with efficiency and compassion.",
+      "city_blurb": "Kansas City is Missouri's largest city, spanning Jackson County and the greater KC metro across both Missouri and Kansas. Known for its barbecue, jazz heritage, and Midwestern values, KC has a strong culture of homeownership with estate cleanout services in demand across neighborhoods like Brookside, Waldo, and the Northland, as well as suburbs like Lee's Summit and Overland Park.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -780,6 +835,7 @@
       "phone": "",
       "website": "",
       "description": "Serving Kansas City and surrounding communities with professional estate cleanout services, handling all aspects of property clearing including sorting, donations, hauling, and final cleanup.",
+      "city_blurb": "Kansas City is Missouri's largest city, spanning Jackson County and the greater KC metro across both Missouri and Kansas. Known for its barbecue, jazz heritage, and Midwestern values, KC has a strong culture of homeownership with estate cleanout services in demand across neighborhoods like Brookside, Waldo, and the Northland, as well as suburbs like Lee's Summit and Overland Park.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -794,6 +850,7 @@
       "phone": "",
       "website": "",
       "description": "Atlanta Georgia estate cleanout professionals serving the greater metro area, helping families clear homes after a loss or downsizing with care and efficiency throughout Fulton County and beyond.",
+      "city_blurb": "Atlanta is the capital and largest city of Georgia, a major metropolitan hub spanning Fulton and DeKalb Counties. As one of the fastest-growing cities in the Southeast, Atlanta has a large and aging population with strong demand for estate cleanout services. Professionals serve neighborhoods from Buckhead and Virginia-Highland to Decatur, Marietta, and Sandy Springs.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -808,6 +865,7 @@
       "phone": "",
       "website": "",
       "description": "Trusted estate cleanout services throughout the Atlanta metro area working with families, probate attorneys, and real estate professionals to prepare properties for sale or transfer.",
+      "city_blurb": "Atlanta is the capital and largest city of Georgia, a major metropolitan hub spanning Fulton and DeKalb Counties. As one of the fastest-growing cities in the Southeast, Atlanta has a large and aging population with strong demand for estate cleanout services. Professionals serve neighborhoods from Buckhead and Virginia-Highland to Decatur, Marietta, and Sandy Springs.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -822,6 +880,7 @@
       "phone": "",
       "website": "",
       "description": "Miami Florida estate cleanout specialists serving Miami-Dade County and surrounding areas, helping families clear homes after a loss or downsizing with compassion and efficiency.",
+      "city_blurb": "Miami is Florida's second-largest city and a global metropolis spanning Miami-Dade County. With a large Latin American community and significant retiree population, Miami sees high demand for estate cleanout services year-round. Professionals serve communities from Coral Gables and Coconut Grove to Hialeah, Kendall, and Homestead.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -836,6 +895,7 @@
       "phone": "",
       "website": "",
       "description": "Serving Miami and South Florida with professional and respectful estate cleanout services, handling all types of properties and coordinating donations to local charities whenever possible.",
+      "city_blurb": "Miami is Florida's second-largest city and a global metropolis spanning Miami-Dade County. With a large Latin American community and significant retiree population, Miami sees high demand for estate cleanout services year-round. Professionals serve communities from Coral Gables and Coconut Grove to Hialeah, Kendall, and Homestead.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -850,6 +910,7 @@
       "phone": "",
       "website": "",
       "description": "Minneapolis Minnesota estate cleanout professionals serving the Twin Cities metro area, helping families clear homes with efficiency and compassion throughout Hennepin and Ramsey Counties.",
+      "city_blurb": "Minneapolis is Minnesota's largest city and the economic hub of the Twin Cities metro, spanning Hennepin County on the banks of the Mississippi River. With strong Scandinavian and German homeownership traditions in neighborhoods like Linden Hills, Longfellow, and Kenwood, Minneapolis families regularly need estate cleanout help. Professionals also serve St. Paul, Bloomington, and the broader metro.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -864,6 +925,7 @@
       "phone": "",
       "website": "",
       "description": "Trusted estate cleanout services throughout Minneapolis and St. Paul with a compassionate team handling all aspects of property clearing with care and respect for your family during a difficult time.",
+      "city_blurb": "Minneapolis is Minnesota's largest city and the economic hub of the Twin Cities metro, spanning Hennepin County on the banks of the Mississippi River. With strong Scandinavian and German homeownership traditions in neighborhoods like Linden Hills, Longfellow, and Kenwood, Minneapolis families regularly need estate cleanout help. Professionals also serve St. Paul, Bloomington, and the broader metro.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -878,6 +940,7 @@
       "phone": "",
       "website": "",
       "description": "Cleveland Ohio estate cleanout specialists serving Cuyahoga County and surrounding areas, helping families clear homes after a loss or downsizing with efficiency and respect.",
+      "city_blurb": "Cleveland is the second-largest city in Ohio and a major Great Lakes port spanning Cuyahoga County in northeast Ohio. With a long history of ethnic neighborhoods like Little Italy, Tremont, and Ohio City, Cleveland has deep homeownership traditions and steady demand for estate cleanout services. Professionals serve Greater Cleveland including Parma, Lakewood, and the eastern suburbs.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -892,6 +955,7 @@
       "phone": "",
       "website": "",
       "description": "Serving Cleveland and northeast Ohio with professional estate cleanout services, handling all aspects of property clearing including donations, hauling, and final cleanup for families in transition.",
+      "city_blurb": "Cleveland is the second-largest city in Ohio and a major Great Lakes port spanning Cuyahoga County in northeast Ohio. With a long history of ethnic neighborhoods like Little Italy, Tremont, and Ohio City, Cleveland has deep homeownership traditions and steady demand for estate cleanout services. Professionals serve Greater Cleveland including Parma, Lakewood, and the eastern suburbs.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -906,6 +970,7 @@
       "phone": "",
       "website": "",
       "description": "New Orleans Louisiana estate cleanout professionals serving the greater NOLA area, helping families clear homes after a loss or downsizing with care and efficiency throughout Orleans and Jefferson Parishes.",
+      "city_blurb": "New Orleans is Louisiana's largest city and one of the most culturally unique in America, spanning Orleans Parish along the Mississippi River. With centuries of Creole and French heritage and tight-knit neighborhoods like the Garden District, Uptown, and Mid-City, New Orleans families have deep roots in their homes and frequently need compassionate estate cleanout help.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -920,6 +985,7 @@
       "phone": "",
       "website": "",
       "description": "Trusted estate cleanout services throughout New Orleans and surrounding parishes with a compassionate team treating every family and every home with the respect and care they deserve.",
+      "city_blurb": "New Orleans is Louisiana's largest city and one of the most culturally unique in America, spanning Orleans Parish along the Mississippi River. With centuries of Creole and French heritage and tight-knit neighborhoods like the Garden District, Uptown, and Mid-City, New Orleans families have deep roots in their homes and frequently need compassionate estate cleanout help.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -934,6 +1000,7 @@
       "phone": "",
       "website": "",
       "description": "Pittsburgh Pennsylvania estate cleanout specialists serving Allegheny County and surrounding areas, helping families navigate the difficult process of clearing a loved one's home with care.",
+      "city_blurb": "Pittsburgh is Pennsylvania's second-largest city, a historic steel town spanning Allegheny County at the confluence of three rivers. Pittsburgh has some of the highest rates of multi-generational homeownership in the nation, with families in neighborhoods like Squirrel Hill, Shadyside, and the South Side holding homes for decades. Estate cleanout professionals serve the entire Pittsburgh metro.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -948,6 +1015,7 @@
       "phone": "",
       "website": "",
       "description": "Serving Pittsburgh families with professional and compassionate estate cleanout services, handling full property cleanouts, furniture removal, and donation coordination for families in transition.",
+      "city_blurb": "Pittsburgh is Pennsylvania's second-largest city, a historic steel town spanning Allegheny County at the confluence of three rivers. Pittsburgh has some of the highest rates of multi-generational homeownership in the nation, with families in neighborhoods like Squirrel Hill, Shadyside, and the South Side holding homes for decades. Estate cleanout professionals serve the entire Pittsburgh metro.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -962,6 +1030,7 @@
       "phone": "",
       "website": "",
       "description": "Tampa Florida estate cleanout professionals serving Hillsborough County and surrounding areas, helping families clear homes with efficiency and compassion after a loss or downsizing event.",
+      "city_blurb": "Tampa is the largest city on Florida's Gulf Coast, spanning Hillsborough County in the Tampa Bay area. With a large and growing retiree population and significant snowbird community, Tampa sees high demand for estate cleanout services year-round. Professionals serve communities from Hyde Park and Seminole Heights to Brandon, Wesley Chapel, and St. Petersburg.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -976,6 +1045,7 @@
       "phone": "",
       "website": "",
       "description": "Trusted estate cleanout services in Tampa and the greater Tampa Bay area working with families, executors, and real estate professionals to prepare properties for sale or transfer.",
+      "city_blurb": "Tampa is the largest city on Florida's Gulf Coast, spanning Hillsborough County in the Tampa Bay area. With a large and growing retiree population and significant snowbird community, Tampa sees high demand for estate cleanout services year-round. Professionals serve communities from Hyde Park and Seminole Heights to Brandon, Wesley Chapel, and St. Petersburg.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -990,6 +1060,7 @@
       "phone": "",
       "website": "",
       "description": "Portland Oregon estate cleanout specialists serving Multnomah County and surrounding areas, helping families clear homes with care and efficiency while coordinating donations to local charities whenever possible.",
+      "city_blurb": "Portland is Oregon's largest city and a Pacific Northwest hub spanning Multnomah County along the Willamette River. With established neighborhoods like Hawthorne, Alberta Arts District, and St. Johns, Portland has a strong culture of community and homeownership. Estate cleanout professionals serve the greater Portland metro including Vancouver, Beaverton, and Gresham.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -1004,6 +1075,7 @@
       "phone": "",
       "website": "",
       "description": "Serving Portland and surrounding communities with professional estate cleanout services, handling all aspects of property clearing with the sensitivity and professionalism your family deserves.",
+      "city_blurb": "Portland is Oregon's largest city and a Pacific Northwest hub spanning Multnomah County along the Willamette River. With established neighborhoods like Hawthorne, Alberta Arts District, and St. Johns, Portland has a strong culture of community and homeownership. Estate cleanout professionals serve the greater Portland metro including Vancouver, Beaverton, and Gresham.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -1018,6 +1090,7 @@
       "phone": "",
       "website": "",
       "description": "St. Louis Missouri estate cleanout professionals serving the greater St. Louis metro area, helping families clear homes after a loss or downsizing with efficiency and compassion.",
+      "city_blurb": "St. Louis is Missouri's second-largest city and a historic Mississippi River gateway spanning St. Louis City and St. Louis County. Known for its proud neighborhoods like Lafayette Square, Soulard, and Webster Groves, St. Louis has a deep homeownership culture and strong demand for estate cleanout services. Professionals serve both the city and surrounding Missouri and Illinois suburbs.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -1032,6 +1105,7 @@
       "phone": "",
       "website": "",
       "description": "Trusted estate cleanout services throughout St. Louis and surrounding communities with a compassionate team handling all aspects of property clearing with care and respect for your family.",
+      "city_blurb": "St. Louis is Missouri's second-largest city and a historic Mississippi River gateway spanning St. Louis City and St. Louis County. Known for its proud neighborhoods like Lafayette Square, Soulard, and Webster Groves, St. Louis has a deep homeownership culture and strong demand for estate cleanout services. Professionals serve both the city and surrounding Missouri and Illinois suburbs.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -1046,6 +1120,7 @@
       "phone": "",
       "website": "",
       "description": "Raleigh North Carolina estate cleanout specialists serving Wake County and surrounding areas, helping families navigate the process of clearing a loved one's home with care and efficiency.",
+      "city_blurb": "Raleigh is the capital of North Carolina and part of the Research Triangle, one of the fastest-growing metros in the Southeast spanning Wake County. With a booming population and aging long-term residents in neighborhoods like Five Points, Cameron Village, and North Hills, Raleigh families regularly need estate cleanout help. Professionals also serve Durham, Chapel Hill, and Cary.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -1060,6 +1135,7 @@
       "phone": "",
       "website": "",
       "description": "Serving Raleigh, Durham, and Chapel Hill with professional estate cleanout services, working with families, probate attorneys, and real estate agents to prepare properties for sale or transfer.",
+      "city_blurb": "Raleigh is the capital of North Carolina and part of the Research Triangle, one of the fastest-growing metros in the Southeast spanning Wake County. With a booming population and aging long-term residents in neighborhoods like Five Points, Cameron Village, and North Hills, Raleigh families regularly need estate cleanout help. Professionals also serve Durham, Chapel Hill, and Cary.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -1074,6 +1150,7 @@
       "phone": "",
       "website": "",
       "description": "Virginia Beach estate cleanout professionals serving Hampton Roads and surrounding areas, helping families clear homes after a loss or downsizing with efficiency and compassion.",
+      "city_blurb": "Virginia Beach is Virginia's largest city and a major Atlantic Coast community spanning the Hampton Roads region. With a large military community at NAS Oceana and Naval Station Norfolk, plus a significant retiree population, Virginia Beach sees consistent demand for estate cleanout services. Professionals serve the entire Hampton Roads area including Norfolk, Chesapeake, and Suffolk.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -1088,6 +1165,7 @@
       "phone": "",
       "website": "",
       "description": "Trusted estate cleanout services throughout Virginia Beach and the Hampton Roads area with a compassionate team handling all aspects of property clearing with care and respect for your family.",
+      "city_blurb": "Virginia Beach is Virginia's largest city and a major Atlantic Coast community spanning the Hampton Roads region. With a large military community at NAS Oceana and Naval Station Norfolk, plus a significant retiree population, Virginia Beach sees consistent demand for estate cleanout services. Professionals serve the entire Hampton Roads area including Norfolk, Chesapeake, and Suffolk.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -1102,6 +1180,7 @@
       "phone": "",
       "website": "",
       "description": "Omaha Nebraska estate cleanout specialists serving Douglas County and surrounding areas, helping families clear homes after a loss or downsizing with care and efficiency.",
+      "city_blurb": "Omaha is Nebraska's largest city and a major Midwestern hub spanning Douglas County on the Missouri River. Known for its strong Midwestern values and multi-generational homeownership in neighborhoods like Dundee, Benson, and the Old Market area, Omaha families frequently need estate cleanout help. Professionals serve the greater Omaha metro including Council Bluffs and Bellevue.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -1116,6 +1195,7 @@
       "phone": "",
       "website": "",
       "description": "Serving Omaha and surrounding Nebraska communities with professional estate cleanout services, handling everything from furniture removal to final cleanup with care and professionalism.",
+      "city_blurb": "Omaha is Nebraska's largest city and a major Midwestern hub spanning Douglas County on the Missouri River. Known for its strong Midwestern values and multi-generational homeownership in neighborhoods like Dundee, Benson, and the Old Market area, Omaha families frequently need estate cleanout help. Professionals serve the greater Omaha metro including Council Bluffs and Bellevue.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -1130,6 +1210,7 @@
       "phone": "",
       "website": "",
       "description": "Colorado Springs estate cleanout professionals serving El Paso County and surrounding areas, helping families clear homes with efficiency and compassion throughout southern Colorado.",
+      "city_blurb": "Colorado Springs is Colorado's second-largest city, home to a large military community at Fort Carson and the Air Force Academy, spanning El Paso County at the base of Pikes Peak. With significant military retiree and civilian populations, Colorado Springs sees strong demand for estate cleanout services. Professionals serve communities from Monument and Fountain to Pueblo and the surrounding region.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -1144,6 +1225,7 @@
       "phone": "",
       "website": "",
       "description": "Trusted estate cleanout services in Colorado Springs and surrounding communities treating every home and family with the compassion and professionalism they deserve during a difficult time.",
+      "city_blurb": "Colorado Springs is Colorado's second-largest city, home to a large military community at Fort Carson and the Air Force Academy, spanning El Paso County at the base of Pikes Peak. With significant military retiree and civilian populations, Colorado Springs sees strong demand for estate cleanout services. Professionals serve communities from Monument and Fountain to Pueblo and the surrounding region.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -1158,6 +1240,7 @@
       "phone": "",
       "website": "",
       "description": "Long Island New York estate cleanout specialists serving Nassau and Suffolk Counties, helping families clear homes after a loss or downsizing with efficiency and compassion.",
+      "city_blurb": "Long Island is home to nearly 8 million people across Nassau and Suffolk Counties, making it one of the most densely populated suburban regions in the United States. With generations of families who put down deep roots after World War II, Long Island has exceptional demand for estate cleanout services. Professionals serve communities from Hempstead and Garden City to the Hamptons and the North Fork.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -1172,6 +1255,7 @@
       "phone": "",
       "website": "",
       "description": "Serving Long Island families with professional and respectful estate cleanout services, handling all types of properties from small apartments to large family homes with the same level of care.",
+      "city_blurb": "Long Island is home to nearly 8 million people across Nassau and Suffolk Counties, making it one of the most densely populated suburban regions in the United States. With generations of families who put down deep roots after World War II, Long Island has exceptional demand for estate cleanout services. Professionals serve communities from Hempstead and Garden City to the Hamptons and the North Fork.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -1186,6 +1270,7 @@
       "phone": "",
       "website": "",
       "description": "Memphis Tennessee estate cleanout professionals serving Shelby County and surrounding areas, helping families clear homes after a loss or downsizing with care and efficiency.",
+      "city_blurb": "Memphis is Tennessee's second-largest city and a historic Mississippi River city spanning Shelby County. Known for its blues and soul music heritage and strong Southern family traditions in neighborhoods like Midtown, Cooper-Young, and East Memphis, Memphis families frequently need compassionate estate cleanout help. Professionals serve the greater Memphis metro including Germantown and Bartlett.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
@@ -1200,6 +1285,7 @@
       "phone": "",
       "website": "",
       "description": "Trusted estate cleanout services throughout Memphis and the Mid-South region with a compassionate team handling all aspects of property clearing with care and respect for your family.",
+      "city_blurb": "Memphis is Tennessee's second-largest city and a historic Mississippi River city spanning Shelby County. Known for its blues and soul music heritage and strong Southern family traditions in neighborhoods like Midtown, Cooper-Young, and East Memphis, Memphis families frequently need compassionate estate cleanout help. Professionals serve the greater Memphis metro including Germantown and Bartlett.",
       "category": "Estate Cleanout",
       "featured": false,
       "claimed": false
